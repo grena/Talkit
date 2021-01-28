@@ -1,13 +1,12 @@
-# Hello! I'm currently working on a similar but more powerfull app which supports multiple dialogues with built in scripting, gdds, quest, etc. 
-# https://baj.itch.io/speechr
+# Talkit
+Web Based, Non-Linear Game Dialogue Editor.
 
 ---
 
-# Talkit
-Web Based, Non-Linear Game Dialogue Editor.
-#
+**Forked from [ajboni/Talkit](https://github.com/ajboni/Talkit)**
 
 Talkit is a fork of [et1337's](https://github.com/et1337) wonderful [The Poor Man's Dialogue Tree](http://et1337.com/2014/05/16/the-poor-mans-dialogue-tree/) which is currently part of [Lemma](https://github.com/et1337/Lemma) project.
+
 ##Description.
 Talkit is a Non-linear, node based, game dialog editor. 
 It runs on [jointJS](http://www.jointjs.com/). It exports to JSON with game ready content.
@@ -88,9 +87,3 @@ Example Output:
     }
 ]
 ```
-
-## Not Implemented Yet - TODO:.
-* Add ?import="file.json" to import a graph from disk.
-* Add the ability to make a node a starting node.
-* Display the Id of the node on each node.
-
